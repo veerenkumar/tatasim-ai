@@ -1,0 +1,7 @@
+department,active_headcount,standard_hours_month,absenteeism_pct,labor_hours_pv,labor_hours_cv,labor_hours_ev,max_ot_hours_worker,hourly_rate_inr,ot_rate_inr,hire_cost_inr,salary_month_inr
+Body Shop,3600,176,6.5,4.5,9.0,5.0,24,320,560,45000,38000
+Paint Shop,2700,176,5.8,3.5,6.5,3.8,20,340,595,50000,42000
+Final Assembly,7100,176,7.5,9.0,18.0,10.5,28,310,542,42000,36000
+Powertrain & Battery,2900,176,6.0,3.0,6.0,5.5,24,350,612,55000,45000
+Quality & Testing,1600,176,5.0,1.5,2.5,1.8,16,380,665,48000,44000
+Plant Logistics,1500,176,7.0,1.0,2.0,1.2,25,290,507,38000,34000

@@ -1,0 +1,5 @@
+zone_id,zone_name,primary_hub,transport_mode,monthly_dispatch_capacity,transit_days_avg,cost_per_vehicle_inr,damage_loss_pct,third_party_buffer_cap,third_party_rate_premium_pct
+ZONE-WST,Western Corridor,Bhiwandi Hub (MH),Multi-tier Trailer & Ro-Ro,34000,2.5,14500,0.22,10000,18.0
+ZONE-NTH,Northern Corridor,Manesar Logistics Park (HR),Dedicated Auto Rakes & Carrier,28000,4.5,18200,0.35,8500,22.0
+ZONE-STH,Southern Corridor,Hosur / Bangalore Hub (KA),Highway Fleet Carrier,24000,3.8,16800,0.28,7500,20.0
+ZONE-EST,Eastern Corridor,Kolkata Transit Center (WB),Rail & Road Multimodal,16000,5.2,19500,0.40,5000,25.0

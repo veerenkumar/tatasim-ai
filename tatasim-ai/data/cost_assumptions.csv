@@ -1,0 +1,9 @@
+parameter,display_name,category,default_value,unit,description
+annual_holding_cost_rate,Annual Inventory Carrying Rate,Inventory,13.5,%,Capital cost and warehouse storage cost of holding inventory
+working_capital_financing_rate,Working Capital Interest Rate,Finance,9.25,%,Cost of short term revolving working capital financing
+fixed_monthly_plant_overhead_cr,Fixed Monthly Plant Overhead,Manufacturing,195.0,₹ Cr,Fixed depreciation plant administration and facility maintenance
+fixed_monthly_sga_cr,Fixed Monthly SG&A Overhead,General,48.0,₹ Cr,Corporate management sales marketing and corporate overheads
+effective_corporate_tax_rate,Effective Corporate Tax Rate,Finance,25.17,%,Statutory corporate income tax rate
+default_cancellation_slippage_pct,Baseline Booking Cancellation Rate,Sales,4.2,%,Customer order cancellation or attrition rate prior to dispatch
+subcontracting_logistics_rate_inr,Third Party 3PL Emergency Surcharge,Logistics,4500,₹/unit,Premium per vehicle for spot-market car carrier leasing
+shift_setup_amortization_months,Extra Shift Capex Amortization Period,Manufacturing,12,Months,Amortization schedule for tooling and extra shift prep costs

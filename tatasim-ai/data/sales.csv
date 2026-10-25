@@ -1,0 +1,4 @@
+segment,model_family,baseline_monthly_units,avg_selling_price_inr,cancellation_rate_pct,demand_growth_potential_pct,target_segment_share_pct
+PV,Passenger Vehicles (Nexon/Punch/Harrier/Curvv),48500,1150000,4.2,25.0,56.0
+CV,Commercial Vehicles (Prima/Signa/Ultra/Ace),32200,2480000,3.8,18.0,37.2
+EV,Electric Vehicles (Nexon.ev/Punch.ev/Tiago.ev),5800,1420000,5.0,40.0,6.8

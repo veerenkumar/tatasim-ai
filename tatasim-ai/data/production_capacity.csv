@@ -1,0 +1,6 @@
+plant_id,plant_name,location,primary_segments,installed_monthly_capacity,active_shifts,max_shifts,yield_rate_pct,planned_downtime_hours_month,variable_mfg_cost_unit_inr,extra_shift_capex_cr,subcontracting_available,subcontracting_markup_pct
+PLANT-PUN,Pune Plant,Maharashtra,"PV,EV",42000,2,3,96.8,32,48000,18.5,TRUE,22.0
+PLANT-SAN,Sanand Plant (1 & 2),Gujarat,"PV,EV",28000,2,3,97.2,28,44000,14.0,TRUE,20.0
+PLANT-JAM,Jamshedpur Heavy Vehicle Plant,Jharkhand,CV,22000,2,3,95.5,40,78000,22.0,FALSE,25.0
+PLANT-PAN,Pantnagar Commercial Plant,Uttarakhand,CV,14000,2,3,96.2,30,52000,12.0,TRUE,18.0
+PLANT-LUC,Lucknow Bus & Special Vehicle Works,Uttar Pradesh,CV,6500,2,2,94.8,36,86000,8.0,FALSE,30.0

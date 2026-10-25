@@ -1,0 +1,9 @@
+supplier_id,supplier_name,component_category,primary_component,lead_time_days,on_time_delivery_pct,max_monthly_supply_capacity,unit_price_inr,location,risk_tier
+SUPP-001,Tata AutoComp Systems Ltd,EV Components,COMP-003,42,89.5,35000,58000,Pune,Low
+SUPP-002,Tata Steel Automotive Division,Raw Material,COMP-001,21,95.0,90000,72000,Jamshedpur,Low
+SUPP-003,Bosch India Ltd,Electronics,COMP-002,56,86.5,120000,14500,Bengaluru,Medium
+SUPP-004,Bharat Forge Ltd,Chassis,COMP-004,28,92.0,42000,68000,Pune,Low
+SUPP-005,MRF & Apollo Consortium,Wheels,COMP-005,18,96.5,150000,22000,Chennai,Low
+SUPP-006,Agratas Energy Storage,EV Components,COMP-010,52,83.0,9500,112000,Gujarat,High
+SUPP-007,Motherson Sumi Wiring,Electrical,COMP-008,31,91.0,110000,18500,Noida,Medium
+SUPP-008,Tata Motors Driveline Div,Powertrain,COMP-009,35,93.0,95000,52000,Pune,Low
